@@ -39,9 +39,10 @@ namespace IoTDemo
 
         public Program()
         {
-            DeviceClient deviceClient = DeviceClient.CreateFromConnectionString("HostName=JBJIOTDemo.azure-devices.net;DeviceId=MyDevice;SharedAccessKeyName=iothubowner;SharedAccessKey=023jbSZ+uZpdk/o5eQZI+fiSgdeQpsKhXSPKMwxpYOg=");
+            DeviceClient deviceClient = DeviceClient.CreateFromConnectionString("HostName=JBJIOTDemo.azure-devices.net;DeviceId=MyDevice;SharedAccessKey=0VhEHzNXP5Hf8pwdTIoRU8isYQIJIwh4bV6cowWz6zs=");
             SendEvent().Wait();
             ReceiveCommands(deviceClient).Wait();
+            //HostName=JBJIOTDemo.azure-devices.net;DeviceId=MyDevice;SharedAccessKeyName=iothubowner;SharedAccessKey=023jbSZ+uZpdk/o5eQZI+fiSgdeQpsKhXSPKMwxpYOg=
         }
 
         //This method is responsible for sending the Event to the IoT Hub

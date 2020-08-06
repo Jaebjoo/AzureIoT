@@ -28,3 +28,5 @@ H:\My Documents\++ Courses\Studio5\IoTDemo\IoTDemo\IoTDemo\bin\Debug\netcoreapp3
 H:\My Documents\++ Courses\Studio5\IoTDemo\IoTDemo\IoTDemo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 H:\My Documents\++ Courses\Studio5\IoTDemo\IoTDemo\IoTDemo\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
 H:\My Documents\++ Courses\Studio5\IoTDemo\IoTDemo\IoTDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\My Documents\++ Courses\Studio5\IoTDemo\IoTDemo\IoTDemo\obj\Debug\netcoreapp3.1\IoTDemo.csproj.CoreCompileInputs.cache
+H:\My Documents\++ Courses\Studio5\IoTDemo\IoTDemo\IoTDemo\obj\Debug\netcoreapp3.1\IoTDemo.genruntimeconfig.cache
